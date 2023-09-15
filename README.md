@@ -1,5 +1,4 @@
-# swiss_indices
-Extreme springs in Switzerland since 1763 in climate and phenological indices
+# Extreme springs in Switzerland since 1763 in climate and phenological indices
 
 Historical sources report manifold on hazardous past climate and weather events that had considerable impacts on society. Studying changes in the occurrence or mechanisms behind such events is, however, hampered by a lack of spatially and temporally complete weather data. The spring season has received less attention in comparison to summer and winter, but is nevertheless relevant since weather conditions in spring can delay vegetation and create substantial damage due to for example late frost events. For Switzerland, we created a daily high-resolution (1x1 km$^2$) reconstruction of temperature and precipitation fields from 1763 to 1960, that forms together with present-day meteorological fields a 258-year-long gridded data set. With this data set, we study changes in longer-term climate and historical weather events based on climate and phenological indices focusing on the spring season.
 
